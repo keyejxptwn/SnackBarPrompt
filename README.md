@@ -1,5 +1,5 @@
 # SnackBarPrompt
-基于SnackBar的一个提示guoyoujin/MySnackBar
+基于SnackBar的一个提示
 ## 使用方法
 ```java
  TSnackbar.make(constraintLayout, "提示", TSnackbar.LENGTH_SHORT, TSnackbar.APPEAR_FROM_TOP_TO_DOWN)
