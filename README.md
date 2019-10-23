@@ -10,6 +10,7 @@
 ```
 顶部弹出提示:APPEAR_FROM_TOP_TO_DOWN
 底部弹出提示:APPEAR_FROM_BOTTOM_TO_TOP
-```致谢
-[link]: https://github.com/guoyoujin/ "guoyoujin"
+```
+## 致谢
+[guoyoujin](https://github.com/guoyoujin)
 
