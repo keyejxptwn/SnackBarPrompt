@@ -7,10 +7,10 @@
                 .setTextGravity(Gravity.CENTER)
                 .setTextFontSizeDip(20f)
                 .show();
-```java
+```
 顶部弹出提示:APPEAR_FROM_TOP_TO_DOWN
 底部弹出提示:APPEAR_FROM_BOTTOM_TO_TOP
-```
+
 #  致谢
 [guoyoujin](https://github.com/guoyoujin)
 
