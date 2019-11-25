@@ -1,4 +1,5 @@
 apply plugin: 'com.android.library'
+apply plugin: 'com.novoda.bintray-release'
 
 android {
     compileSdkVersion 29
@@ -32,4 +33,13 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
     implementation 'com.google.android.material:material:1.0.0'
+}
+publish {
+    userOrg = 'keyejxptwn'
+    groupId = 'com.keyejxptwn'
+    artifactId = 'snackprompt'
+    publishVersion = '1.0.0'
+    desc = 'Super SnackBar'
+    website = 'https://github.com/keyejxptwn/SnackBarPrompt'
+    licences = ['Apache-2.0']
 }
